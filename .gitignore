@@ -1,0 +1,6 @@
+.env
+*.json
+*.pickle
+*.wav
+*.mp4
+__pycache__/
